@@ -178,6 +178,12 @@ Run **`strata connect`** to see setup instructions for your tool. [Connection gu
 [All guides](docs) · [Troubleshooting](docs/TROUBLESHOOTING.md) · [Report a bug](https://github.com/Niko1221/Strata/issues/new/choose) ·
 [Benchmarks](docs/COMMUNITY_BENCHMARKS.md) · [How it works](docs/HOW_IT_WORKS.md) · [Contribute](CONTRIBUTING.md)
 
+## Related
+
+- **[poorseek](https://github.com/dingyiyuan/poorseek)** — a personal, single-config SYCL inference framework for
+  DeepSeek-V4.1 on an Intel Arc Pro B70 (32 GB) + 192 GB host RAM: 19.5–23.2 tok/s on real decode workloads
+  (34–44 tok/s with MTP/DSpark speculative decoding), 578 tok/s prefill at 132 K tokens.
+
 ## Support Strata
 
 **Help keep local AI open to everyone.** A coffee helps fund development and testing on more hardware.
